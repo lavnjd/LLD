@@ -1,0 +1,23 @@
+SOLID PRINCIPLES OF OOPS
+
+S - Single Responsibility Principle
+O - Open/Close principle
+L - Liskov Substitution Principle
+I - Interface Segmented Principle
+D - Dependency Inversion Principle
+
+BENIFITS
+- Avoid duplicate code
+- Easy to maintain
+- Easy to understand
+- Flexible software
+- Reduce complexity
+
+- SINGLE RESPONSIBILITY PRINCIPLE (A class should have only 1 reason to change)
+  - Easy to maintain
+  - Easy to understand
+- OPEN/CLOSE PRINCIPLE (Open for extension but closed for modification)
+- LISKOV SUBSTITUTION PRINCIPLE (If class B is subtype of class A, then we should be able to replace object of A with B without breaking the behaviour of the program, subclass should extend the capability of parent class not narrow it down)
+- INTERFACE SEGMENTED PRINCIPLE (Interface should be such, that client should not implement functions they don't need)
+- DEPENDENCY INVERSION PRINCIPLE (Class should depend on interface rather than concrete classes)
+  
