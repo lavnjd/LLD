@@ -1,0 +1,5 @@
+KISS - KEEP IT SIMPLE AND STUPID
+- Use naming conventions SIMPLE
+- Clean and clear code
+- Break down to smaller problems
+- Following Design patterns

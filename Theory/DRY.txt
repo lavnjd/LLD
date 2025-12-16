@@ -1,0 +1,9 @@
+DON'T REPEAT YOURSELF
+- Code reusability
+- Maintainability and updates
+- Readability
+- Consistency
+- Reduce Development time
+- Facilitates Colloboration
+- Avoid copy paste issues
+- Testability
