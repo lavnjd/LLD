@@ -1,0 +1,45 @@
+SOLID PRINCIPLE
+
+---- why ----
+Scalability: Adding new features should be straightforward
+Maintainability: Changes in one part should not impact others
+Testability: Decoupled designs make unit testing easier
+Readability: Clean code with clear understandings
+
+S - Single Responsibility Principle
+O - Open/Close principle
+L - Liskov Substitution Principle
+I - Interface Segmented Principle
+D - Dependency Inversion Principle
+
+- SINGLE RESPONSIBILITY PRINCIPLE (A class should have only 1 reason to change)
+  - Easy to maintain
+  - Easy to understand
+- Open/Close principle (Open for extension but closed for modification it can be class, function, module)
+  - Prevents breaking the existing code
+  - Encourage resusable components
+- LISKOV SUBSTITUTION PRINCIPLE (If class B is subclass of class A, then we should be able to seamlessly Substitution of A with B without breaking the behaviour of the program, subclass should extend the capability of parent class not narrow it down)
+- INTERFACE SEGMENTED PRINCIPLE (Interface should be such, that client should not implement functions they don't need, segmented based on functionality)
+- DEPENDENCY INVERSION PRINCIPLE (Class should depend on interface rather than concrete classes)
+  - Decoupling 
+  - Better testing
+  - flexibility
+
+DON'T REPEAT YOURSELF
+- Code reusability
+- Maintainability and updates
+- Readability
+- Consistency
+- Reduce Development time
+- Facilitates Colloboration
+- Avoid copy paste issues
+- Testability
+
+KISS - KEEP IT SIMPLE AND STUPID
+- Use naming conventions SIMPLE
+- Clean and clear code
+- Break down to smaller problems
+- Following Design patterns
+
+YOU AREN'T GONNA NEED IT
+- Do the needful simple don't thing over complicated, and implement the features that are required
